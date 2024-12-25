@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Object Detection as a Major Project**
 
-- 🌱 I’m currently learning **Image Processing, OpenCV, Flask, Java**
+- 🌱 I’m currently learning **Image Processing, OpenCV,**
 
 - 💬 Ask me about **Any science related Stuff**
 
