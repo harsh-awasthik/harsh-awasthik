@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Awasthi</h1>
-<h3 align="center">An aspiring Data Scientist and AI/ML Engineer from India</h3>
+<h3 align="center">An aspiring AI/ML/CV Engineer from India</h3>
 <div>
        <img align="right" alt='coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 </div>
@@ -10,9 +10,9 @@
 
 
 
-- 🔭 I’m currently working on **Object Detection as a Major Project**
+- 🔭 I’m currenty **Chilling**
 
-- 🌱 I’m currently learning **Image Processing, OpenCV,**
+- 🌱 I’m currently learning **AI/ML (just for fun)**
 
 - 💬 Ask me about **Any science related Stuff**
 
