@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **harsh.awasthik@gmail.com**
 
-- 📄 Visit my Portfolio @ [harshawasthi.in](harshawasthi.in)
+- 📄 Visit my Portfolio @ [harshawasthi.in](https://harshawasthi.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
