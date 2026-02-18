@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **harsh.awasthik@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1xKB7dJvHIlrr6rHp5ltgug0527l3Nf5cwYpe2fiYwk0/edit?usp=sharing)
+- 📄 Visit my Portfolio @ [harshawasthi.in](harshawasthi.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
